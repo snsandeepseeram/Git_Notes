@@ -12,4 +12,8 @@ local & remote : we will sen the files in batch wise.
 github:
 
 it is a server is  used  for remote repository. it is afree licence
- 
+ git init -- intial
+ git status -status
+ git add  "name of file"
+ git commit -m "Message alternate...."
+ git push -u origin master
