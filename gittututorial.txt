@@ -1,0 +1,15 @@
+git
+------------
+
+concepts:
+ it is a VCS "version control system.
+
+there are 4 types:
+working Directory: the working directory are called as untracked directory. when we give command in terminal "git status" if you find the untrackfiles.
+staging directory: whre we can send the files in single files
+local & remote : we will sen the files in batch wise.
+
+github:
+
+it is a server is  used  for remote repository. it is afree licence
+ 
